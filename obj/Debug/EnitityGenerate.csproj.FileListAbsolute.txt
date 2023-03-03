@@ -1,0 +1,10 @@
+E:\mywork\test\obj\Debug\EnitityGenerate.csproj.AssemblyReference.cache
+E:\mywork\test\obj\Debug\test.Form1.resources
+E:\mywork\test\obj\Debug\EnitityGenerate.csproj.GenerateResource.cache
+E:\mywork\test\obj\Debug\EnitityGenerate.csproj.CoreCompileInputs.cache
+E:\mywork\test\bin\Debug\EnitityGenerate.exe.config
+E:\mywork\test\bin\Debug\EnitityGenerate.exe
+E:\mywork\test\bin\Debug\EnitityGenerate.pdb
+E:\mywork\test\obj\Debug\EnitityGenerate.Properties.Resources.resources
+E:\mywork\test\obj\Debug\EnitityGenerate.exe
+E:\mywork\test\obj\Debug\EnitityGenerate.pdb
